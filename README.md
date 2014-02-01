@@ -1,8 +1,8 @@
 Teacoin integration/staging tree
 =================================
 
-http://www.teacoin.info
-https://bitcointalk.org/index.php?topic=267545.0
+http://www.teacoin.net
+https://bitcointalk.org/index.php?topic=434432.0
 
 Copyright (c) 2009-2013 Bitcoin Developers,
 Copyright (c) 2013 Teacoin Developers
@@ -17,7 +17,7 @@ out collectively by the network. Teacoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Teacoin client sofware, see https://bitcointalk.org/index.php?topic=267545.0
+the Teacoin client sofware, see https://bitcointalk.org/index.php?topic=434432.0
 
 License
 -------
